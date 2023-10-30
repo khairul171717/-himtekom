@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: "poppins", sans-serif;
+}
+.header img{
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    
+}
+.header h1{
+    letter-spacing: .5rem;
+    font-size: 100px;
+    padding-left: 300px;
+    padding-top: 25px;
+}
+
+.header{
+    padding: 5px;
+    color: #010157;
+    background-color: yellow;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: 2px solid;
+}
+#awal{
+    height: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 80px;
+    padding-top: 25px;
+    background: linear-gradient(#303094,#0C6CF7);
+}
+.foto{
+    text-align: center;
+    padding-left: 20px;
+    
+}
+.pengertian{
+    padding-top: 50px;
+}
+.pengertian h2{
+    text-align: center;
+    color: yellow;
+    font-size: 40px;
+    letter-spacing: .5rem;
+}
+.pengertian p{
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.visi{
+    height: 500px;
+    background-color: #0C6CF7;
+}
+
+
+.two {
+    text-align: center;
+    font-size: 40px;
+    color: yellow;
+    font-weight: bold;
+    
+}
+.tri {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.four {
+    text-align: center;
+    font-size: 40px;
+    color: yellow;
+    padding-top: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+ol{
+    padding-left: 350px;
+    font-size: 18px;
+    color: white;
+    padding-right: 350px;
+}
+
+.end{
+    display: flex;
+    justify-content: center;
+   flex-wrap: wrap;
+   width: 100%;
+   padding-left: 20px;
+   padding-top: 20px;
+   padding-right: 20px;
+   padding-bottom: 40px;
+   background-color: #212121;
+}
+.end img{
+    padding-left: 20px;
+   padding-top: 20px;
+   padding-right: 20px;
+   
+}
+.pertama{
+    padding-left: 40px;
+   padding-top: 20px;
+   padding-right: 40px;
+   color: white;
+}
+.kedua{
+    padding-left: 40px;
+   padding-top: 20px;
+   padding-right: 90px;
+   color: white;
+}
+.end ol {
+    padding-left: 20px;
+   padding-top: 20px;
+   padding-right: 40px;
+}
+.end ol a{
+    color: white;
+   display: block;
+}
+.akhir{
+    font-weight: bold;
+}
